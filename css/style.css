@@ -228,7 +228,7 @@ span {
     width: 100%;
     text-align: center;
   }
-  ul{
+  #header-ul{
     width: 100%;
     flex-direction: column;
     justify-content: center;
